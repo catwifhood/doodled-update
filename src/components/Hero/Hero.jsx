@@ -52,11 +52,11 @@ const Hero = () => {
                   </div>
                   <img className="tree2" src={tree1} alt="..." />
                   <div className="days">
-                    <h3>Mint</h3>
+                    <h3>MINT</h3>
                     <p>REVOKED</p>
                   </div>
                   <div className="days">
-                    <h3>Supply</h3>
+                    <h3>SUPPLY</h3>
                     <p>1,000,000,000</p>
                   </div>
                 </div>
