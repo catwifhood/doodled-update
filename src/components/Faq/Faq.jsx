@@ -13,7 +13,7 @@ const Faq = () => {
           <div className="faqHeadMain">
             <div className="faqHead">
               <h1>
-                FAQ<span>s</span>
+                HOW TO BUY
               </h1>
             </div>
             <img className="v1" src={v1} alt="..." />

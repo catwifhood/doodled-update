@@ -26,7 +26,7 @@ const Transaction = () => {
         <div className="mintBtnSec">
           <img src={lines} alt="..." />
           <button className="mintBtnS">TELEGRAM</button>
-          <button className="mintBtn">DEXSCREENER</button>
+          <button className="mintBtn" style={{width: "auto"}}>DEXSCREENER</button>
           <button className="mintBtnS">TWITTER</button>
         </div>
         {/* <div className="counterContent">
