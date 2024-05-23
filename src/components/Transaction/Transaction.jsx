@@ -48,17 +48,15 @@ const Transaction = () => {
             <img className='borderTop' src={top} alt="..." />
             <div className="screen">
               <div className="screenPara">
-                  <h3>DOODLED DOGE</h3>
+                  <h3>MEET MAGADOGE</h3>
                 <p className="descriptionText">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
-                  tristique nec tortor eget lobortis. In blandit nulla ac
-                  consequat finibus.
+                Magadoge, is a fictional shiba inu character in the crypto world. Sporting a red "MAGA" hat, Magadoge blends the internet-famous Doge meme with political satire. With his golden fur and meme-worthy face, Magadoge navigates absurd political landscapes, using humor and charisma to highlight real-world issues.
                 </p>
-                <p className="descriptionText">
+                {/* <p className="descriptionText">
                   Sed placerat sapien id arcu fermentum suscipit ut accumsan
                   nisi. Praesent pellentesque purus vitae metus tincidunt
                   malesuada.
-                </p>
+                </p> */}
               </div>
               <div className="screnDog">
                   <img src={lcdDog} alt="..." />
