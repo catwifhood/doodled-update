@@ -116,7 +116,7 @@
   font-size: 1.7rem;
 }
 .screenPara p {
-  font-size: 0.88rem;
+  font-size: 1.2rem;
   margin-top: 25px;
   color: #3f3e2c;
 }
@@ -137,10 +137,10 @@
 .screnDog {
   width: 300px;
   margin-right: 10px;
+  display: flex;
 }
 .screnDog img {
   width: 100%;
-  margin-bottom: -4px;
 }
 .lcdBtm {
   width: 150px;

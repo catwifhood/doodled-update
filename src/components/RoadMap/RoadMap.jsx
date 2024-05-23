@@ -16,7 +16,7 @@ const RoadMap = () => {
               <li>
                 <div style={{ display: "flex" }}>
                   <h3 className="rMapLeft">1</h3>
-                  <p>
+                  <p className="roadmap-list">
                     <ul className="dotslists">
                       <li>Launch DOODLED</li>
                       <li>CG CMC Listing</li>
@@ -29,7 +29,7 @@ const RoadMap = () => {
               <li>
                 <div style={{ display: "flex" }}>
                   <h3 className="rMapLeft">2</h3>
-                  <p>
+                  <p className="roadmap-list">
                     <ul className="dotslists">
                       <li>CEX Listings</li>
                       <li>Marketing Campaign</li>
@@ -43,7 +43,7 @@ const RoadMap = () => {
                 <div style={{ display: "flex" }}>
                   {" "}
                   <h3 className="rMapLeft">3</h3>
-                  <p>
+                  <p className="roadmap-list">
                     <ul className="dotslists">
                       <li>$1 Million+ MC</li>
                       <li>100,000+ Holders</li>

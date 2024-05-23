@@ -49,12 +49,12 @@ const Transaction = () => {
             <div className="screen">
               <div className="screenPara">
                   <h3>DOODLED DOGE</h3>
-                <p>
+                <p className="descriptionText">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
                   tristique nec tortor eget lobortis. In blandit nulla ac
                   consequat finibus.
                 </p>
-                <p>
+                <p className="descriptionText">
                   Sed placerat sapien id arcu fermentum suscipit ut accumsan
                   nisi. Praesent pellentesque purus vitae metus tincidunt
                   malesuada.
