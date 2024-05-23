@@ -30,8 +30,8 @@ const RoadMap = () => {
                   <h3 className="rMapLeft">2</h3>
                   <p className="roadmap-list">
                     <ul className="dotslists">
-                      <li>DEXSCREENER TRENDING</li>
                       <li>UPDATE DEXSCREENER</li>
+                      <li>DEX TRENDING</li>
                       <li>PAY DEX ADS</li>
                       <li>CG + CMC LISTING</li>
                     </ul>
