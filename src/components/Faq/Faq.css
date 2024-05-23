@@ -1,0 +1,136 @@
+.faqContainer {
+  background-color: #a6f592;
+  padding: 50px 0px;
+}
+.faqHeadMain {
+  position: relative;
+  width: 400px;
+  margin: 0px auto;
+}
+.v1 {
+  position: absolute;
+  top: 70px;
+  width: 50px;
+  left: 30px;
+}
+
+.v2 {
+  position: absolute;
+  top: 60px;
+  width: 50px;
+  left: 90px;
+}
+
+.v3 {
+  position: absolute;
+  top: 55px;
+  width: 30px;
+  right: 90px;
+}
+
+.v4 {
+  position: absolute;
+  top: 55px;
+  width: 40px;
+  right: 40px;
+}
+.faqHead {
+  width: 400px;
+  margin: 0px auto;
+  background-color: white;
+  text-align: center;
+  font-family: 'Rubik One', sans-serif;
+  padding: 20px 0px;
+  border-radius: 30px;
+}
+.faqHead span {
+  font-size: 1.9rem;
+}
+.faqHead h1 {
+  font-weight: normal;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 2.5rem;
+}
+.faqContent {
+  width: 500px;
+  margin: 30px auto;
+  margin-top: 90px;
+}
+
+.faqs {
+  margin: 30px 0px;
+}
+.faqQ {
+  /* height: 110px; */
+  background-color: #414141;
+  border-radius: 30px;
+  width: 100%;
+  padding: 30px 25px;
+  color: white;
+  position: relative;
+  z-index: 10;
+  font-family: 'Rubik One', sans-serif;
+  font-size: 0.8rem;
+}
+.faqAns {
+  margin-top: -30px;
+  padding: 40px 20px;
+  padding-top: 50px;
+  border-radius: 30px;
+  background-color: #cbf5c0;
+  /* opacity: .5; */
+  font-family: 'Rubik One', sans-serif;
+  font-size: 0.8rem;
+  color: #414141;
+}
+
+@media (max-width: 600px) {
+  .faqQ {
+    font-size: 0.7rem;
+    padding: 20px;
+  }
+  .faqAns {
+    font-size: 0.6rem;
+  }
+  .faqContent {
+    width: 80%;
+  }
+}
+@media (max-width: 440px) {
+  .faqHead,
+  .faqHeadMain {
+    width: 330px;
+  }
+}
+
+@media (max-width: 350px) {
+  .faqHead,
+  .faqHeadMain {
+    width: 290px;
+  }
+  .faqHead h1 {
+    font-size: 1.6rem;
+  }
+  .faqHead span {
+    font-size: 1rem;
+  }
+  .v1 {
+    top: 52px;
+  }
+  .v2 {
+    top: 42px;
+    /* width: 50px; */
+    left: 78px;
+  }
+  .v3 {
+    top: 48px;
+    width: 22px;
+    right: 76px;
+  }
+  .v4 {
+    /* position: absolute; */
+    top: 37px;
+    /* width: 40px; */
+    right: 34px;
+  }
+}
