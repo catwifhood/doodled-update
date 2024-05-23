@@ -23,37 +23,29 @@ const Faq = () => {
           </div>
           <div className="faqContent">
             <div className="faqs">
-              <p className="faqQ">WHERE WILL WE BE LAUNCHING?</p>
+              <p className="faqQ">STEP 1 - CREATE A WALLET</p>
               <p className="faqAns">
-                WE WILL BE STEALTH LAUNCHING ON PUMP FUN SO KEEP UPDATED ON OUR
-                TWITTER.
+                DOWNLOAD A WALLET OF YOUR CHOICE. PHANTOM IS RECOMMENDED FOR EASE OF USE.
               </p>
             </div>
             <div className="faqs">
-              <p className="faqQ">WHAT WILL HAPPEN AFTER RAYDIUM?</p>
+              <p className="faqQ">STEP 2 - GET SOME SOLANA</p>
               <p className="faqAns">
-                DEX WILL BE UPDATED, FOLLOWED BY TRENDING, AND THEN MOON!
+                YOU CAN PURCHASE SOLANA FROM INSIDE THE SOLANA APP.
               </p>
             </div>
             <div className="faqs">
               <p className="faqQ">
-                HOW MANY QUESTION DOES A ROOSTER ASK BEFORE CROSSING THE ROAD ?
+                STEP 3 - GO TO RAYDIUM
               </p>
               <p className="faqAns">
-                TOO MANY QUESTION TO ANSWER AND WE JUST NEED TO SEE HOW LONG IT
-                GOES!
-              </p>
-            </div>
-            <div className="faqs">
-              <p className="faqQ">WHAT IS YOUR TWITTER?</p>
-              <p className="faqAns">
-                WE POST ALL OF OUR UPDATES @DoodledDogeOnSol.
+                CONNECT TO RAYDIUM.IO AND PASTE THE $MAGADOGE TOKEN ADDRESS.
               </p>
             </div>
             <div className="faqs">
-              <p className="faqQ">WHAT BLOCKCHAIN ARE YOU LAUNCHING ON?</p>
+              <p className="faqQ">STEP 4 - SWAP SOL for $MAGADOGE</p>
               <p className="faqAns">
-                DOODLED DOGE IS HERE TO TAKEOVER THE SOLANA BLOCKCHAIN.
+              CONFIRM SWAP AND GET SOME $MAGADOGE.
               </p>
             </div>
             {/* <div className="faqs">

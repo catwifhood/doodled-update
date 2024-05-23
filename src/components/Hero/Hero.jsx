@@ -57,7 +57,7 @@ const Hero = () => {
                   </div>
                   <div className="days">
                     <h3>Supply</h3>
-                    <p>100,000,000</p>
+                    <p>1,000,000,000</p>
                   </div>
                 </div>
               </div>
